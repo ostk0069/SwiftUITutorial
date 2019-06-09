@@ -6,8 +6,8 @@
 //  Copyright © 2019 Takuma Osada. All rights reserved.
 //
 
-import SwiftUI
 import Combine
+import SwiftUI
 
 final class UserData: BindableObject {
     let didChange = PassthroughSubject<UserData, Never>()

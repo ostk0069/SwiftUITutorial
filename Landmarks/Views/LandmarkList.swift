@@ -34,6 +34,9 @@ struct LandmarkList: View {
 
 struct LandmarkList_Preview: PreviewProvider {
     static var previews: some View {
-        LandmarkList()
+        NavigationView {
+            LandmarkList()
+                .environmentObject(UserData())
+        }
     }
 }
