@@ -168,16 +168,16 @@
 		82AA260122A7ECDB00CAFA38 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
-				82A3E8F222ACF1BE003456F3 /* Badge */,
-				827201E122ACE044007AEE30 /* Views */,
-				827201C022ACCF6B007AEE30 /* Resources */,
-				827201BD22ACCBF5007AEE30 /* Models */,
+				82AA261022A7ECDF00CAFA38 /* Info.plist */,
 				82AA260222A7ECDB00CAFA38 /* AppDelegate.swift */,
 				82AA260422A7ECDB00CAFA38 /* SceneDelegate.swift */,
 				82AA260822A7ECDF00CAFA38 /* Assets.xcassets */,
+				82A3E8F222ACF1BE003456F3 /* Badge */,
 				82AA260D22A7ECDF00CAFA38 /* LaunchScreen.storyboard */,
-				82AA261022A7ECDF00CAFA38 /* Info.plist */,
+				827201BD22ACCBF5007AEE30 /* Models */,
 				82AA260A22A7ECDF00CAFA38 /* Preview Content */,
+				827201C022ACCF6B007AEE30 /* Resources */,
+				827201E122ACE044007AEE30 /* Views */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
